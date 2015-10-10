@@ -1,3 +1,4 @@
+#hello World
 ### Welcome to this mini practice of using Github ###
 ### You will need to finish the following tasks, and then push your code to your repository ###
 ### Remeber to write down your documentations along with your codes ###
@@ -42,4 +43,3 @@ rm(list=ls())
 ### Remember to save you codes before you proceed ###
 
 ### Now instead of 10th row, repeat the whole procedure for the whole matrix ###
-
